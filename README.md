@@ -1,5 +1,5 @@
 # PythonWebScraping
-Python scraping of web pages using ___BeautifulSoup___, ___lxml___, ___requests___, ___json___ and ___csv___ libraries.
+Python scraping of web pages using ___beautifulsoup4___, ___lxml___, ___requests___, ___json___ and ___csv___ libraries.
 
 Link to the web page used in this project: https://health-diet.ru/table_calorie/?utm_source=leftMenu&utm_medium=table_calorie<br>
 This web page contains information about various food products. It was necessary to get all the data about each type of food, in particular, its name, the amount of calories, proteins, fats and carbohydrates contained in it, and then save this information in json and csv (Excel) formats.
